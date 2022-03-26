@@ -31,7 +31,7 @@
 .btn-cart{
     
     width:100%;
-    background: #FFE0B3;
+    background: rgb(1, 167, 233);
     border: none;
     position: absolute;
     bottom:0;
@@ -42,5 +42,5 @@
 }
 
 .btn-cart:hover{
-    background-color: orange;
+    background-color: rgb(0, 132, 255);
 }

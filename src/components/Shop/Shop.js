@@ -17,8 +17,8 @@ const Shop = () => {
         console.log(product);
 
         const newCart =[...cart,product];
-        if(cart.length>=4){
-            setCount(0);
+        if(cart.length>=5){
+            window.alert("You can't hire more than 5 developers");
         }
         else{
             setCart(newCart);
@@ -26,7 +26,7 @@ const Shop = () => {
     }
     return (
         <div className='container'>
-            <h1>Supplement-House</h1>
+            <h1>Hire Developer</h1>
             <div className='shop-container'>
             
             <div className="product-container">

@@ -16,7 +16,7 @@ const Order = (props) => {
     return (
         <div>
             <h2 className='title'>Order Summary</h2>
-                <p>Selected Items:{cart.length}</p>
+                <p className='leftMargin'>Selected Items:{cart.length}</p>
                 {
                    cart.map(order =><DisplayOrder
                     order={order}
@@ -24,8 +24,8 @@ const Order = (props) => {
                     ></DisplayOrder>) 
                 }
 
-                <button onClick={chooseOne} className='Choose-one'>Choose one</button>
-                <button onClick={chooseAgain} className='choose-again'>Choose Again</button>
+                <button onClick={chooseOne} className='Choose-one leftMargin'>Choose one</button>
+                <button onClick={chooseAgain} className='choose-again leftMargin'>Choose Again</button>
                 
         </div>
     );

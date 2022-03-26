@@ -1,5 +1,6 @@
 h1{
     text-align: center;
+    color: rgb(0, 132, 255)
 }
 .shop-container{
     display: flex;
@@ -15,8 +16,10 @@ h1{
 }
 
 .cart-container{
+    margin-top: 100px;
     width:250px;
-    background-color: orange;
+    height: 500px;
+    background-color:rgb(1, 167, 233);
     border: 1px solid gray;
 }
 .title{
