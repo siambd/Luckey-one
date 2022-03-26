@@ -1,0 +1,65 @@
+[
+    {
+      "id": "623ed1698b2f11b1ef70e90a",
+      "img": "images/c4.jpg",
+      "price": 1436,
+      "name": "C4",
+      "brand": "Nitro Tech"
+    },
+    {
+      "id": "623ed1696d66f06c9330bf98",
+      "img": "images/cla.jpg",
+      "price": 2119,
+      "name": "CLA",
+      "brand": "MP"
+    },
+    {
+      "id": "623ed16956d8e91487be8a1a",
+      "img": "images/creatinine.jpg",
+      "price": 2503,
+      "name": "Creatine",
+      "brand": "Nitro Tech"
+    },
+    {
+      "id": "623ed169233119cdf7da2426",
+      "img": "images/fish oil.jpg",
+      "price": 2443,
+      "name": "Fish Oil",
+      "brand": "My Protein"
+    },
+    {
+      "id": "623ed169617ee7c79411d6a5",
+      "img": "images/green tea.jpg",
+      "price": 2191,
+      "name": "Green Tea Extract",
+      "brand": "Nature's Bounty"
+    },
+    {
+      "id": "623ed1696909767baded7191",
+      "img": "images/whey.jpg",
+      "price": 1995,
+      "name": "Whey Protein",
+      "brand": "Nitro Tech"
+    },
+    {
+      "id": "623ed1696909767bded7191",
+      "img": "images/multi vit.jpg",
+      "price": 995,
+      "name": "Multi Vitamin",
+      "brand": "Beximco"
+    },
+    {
+      "id": "623ed1696909767baded7191",
+      "img": "images/pb.jpg",
+      "price": 1995,
+      "name": "Peanut Butter Powder",
+      "brand": "My Protein"
+    },
+    {
+      "id": "623ed1696909767baded710",
+      "img": "images/package.jpg",
+      "price": 4000,
+      "name": "Supplement Pack",
+      "brand": "Nitro Tech"
+    }
+  ]
